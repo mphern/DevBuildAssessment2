@@ -1,0 +1,6 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\bin\Debug\SecondDimension.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\bin\Debug\SecondDimension.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\bin\Debug\SecondDimension.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\obj\Debug\SecondDimension.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\obj\Debug\SecondDimension.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\The Second Dimension\SecondDimension\SecondDimension\obj\Debug\SecondDimension.pdb

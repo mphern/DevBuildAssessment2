@@ -1,0 +1,6 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\bin\Debug\OddOneOut.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\obj\Debug\OddOneOut.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\obj\Debug\OddOneOut.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 2\Odd One Out\OddOneOut\OddOneOut\obj\Debug\OddOneOut.pdb
